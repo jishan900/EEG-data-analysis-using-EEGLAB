@@ -1,1 +1,1 @@
-# EEG-data-analysis-using-EEGLAB
+# EEG data analysis using EEGLAB
